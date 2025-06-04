@@ -39,7 +39,7 @@ Each IR sensor has a transmitter (IR LED) and a receiver (Photodiode). When an o
 
 ---
 ## Code
-The Code can be found in the file Main.cpp . It was programmed using the Arduino IDE which seamlessly integrates Software and Hardware to develop an efficient and cost-effective solution for automatic visitor tracking. We programmed the system to detect movement in both directions, ensuring precise counting and real-time updates on visitor flow. I
+The Code can be found in the file Main.cpp . It was programmed using the Arduino IDE which seamlessly integrates Software and Hardware to develop an efficient and cost-effective solution for automatic visitor tracking. We programmed the system to detect movement in both directions, ensuring precise counting and real-time updates on visitor flow.
 
 # Output 
 ![Number of visitors currently in the room being displayed](Output_Arduino.jpg)
