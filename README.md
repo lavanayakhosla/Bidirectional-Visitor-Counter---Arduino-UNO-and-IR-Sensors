@@ -1,18 +1,16 @@
-## 📌 Project Title  
-**Bidirectional Visitor Counter using Arduino UNO and IR Sensors**
+## Bidirectional Visitor Counter using Arduino UNO and IR Sensor
 
 ---
-
-## 📘 Introduction  
+##  Introduction  
 The aim of this project is to develop a circuit that can count the number of people entering and exiting a room using two **Infrared (IR) sensors** connected to an **Arduino UNO**. This bidirectional counter helps in determining the number of people currently present in the room.
 
-### 🧠 How It Works
+### How It Works
 - When someone passes through the sensors, the sequence of IR interruptions determines entry or exit.
 - The **Arduino UNO** processes this data and updates the count accordingly.
 
 ---
 
-## 🧩 Components Used
+## Components Used
 - Arduino UNO  
 - 2 × IR Sensors  
 - Breadboard  
@@ -21,14 +19,14 @@ The aim of this project is to develop a circuit that can count the number of peo
 
 ---
 
-## ⚙️ Working Principle
+## Working Principle
 
-### 🔸 Arduino UNO  
+###  Arduino UNO  
 A microcontroller board with 14 digital I/O pins and 6 analog input pins. It is programmable via the Arduino IDE.
 
 > *Figure 1: Arduino UNO*
 
-### 🔸 IR Sensors  
+###  IR Sensors  
 Each IR sensor has a transmitter (IR LED) and a receiver (Photodiode). When an object blocks the IR rays, the Arduino detects a voltage change and processes it as an event.
 
 > *Figure 2: IR Sensors*
