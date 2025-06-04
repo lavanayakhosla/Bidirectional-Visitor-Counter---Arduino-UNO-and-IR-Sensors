@@ -38,5 +38,5 @@ Each IR sensor has a transmitter (IR LED) and a receiver (Photodiode). When an o
 
 ---
 # Output 
-![Number of visitors currently in the room being displayed] (Output_Arduino.jpg)
+![Number of visitors currently in the room being displayed](Output_Arduino.jpg)
 
