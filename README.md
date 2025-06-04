@@ -19,7 +19,7 @@ The aim of this project is to develop a circuit that can count the number of peo
 ###  Arduino UNO  
 A microcontroller board with 14 digital I/O pins and 6 analog input pins. It is programmable via the Arduino IDE.
 
-> *Figure 1: Arduino UNO*
+![Figure1: Arduino UNO](Arduino.jpg)
 
 ###  IR Sensors  
 Each IR sensor has a transmitter (IR LED) and a receiver (Photodiode). When an object blocks the IR rays, the Arduino detects a voltage change and processes it as an event.
