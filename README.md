@@ -8,7 +8,8 @@ The aim of this project is to develop a circuit that can count the number of peo
 - The **Arduino UNO** processes this data and updates the count accordingly.
 
 ## Components Used
-- Arduino UNO  
+- Arduino UNO
+- Arduino IDE ( for programming in C++ and integration of Software and Hardware)
 - 2 × IR Sensors  
 - Breadboard  
 - USB Cable  
@@ -38,7 +39,7 @@ Each IR sensor has a transmitter (IR LED) and a receiver (Photodiode). When an o
 
 ---
 ## Code
-The Code can be found in the file Main.cpp
+The Code can be found in the file Main.cpp . It was programmed using the Arduino IDE which seamlessly integrates Software and Hardware to develop an efficient and cost-effective solution for automatic visitor tracking. We programmed the system to detect movement in both directions, ensuring precise counting and real-time updates on visitor flow. I
 
 # Output 
 ![Number of visitors currently in the room being displayed](Output_Arduino.jpg)
