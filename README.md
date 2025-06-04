@@ -34,7 +34,7 @@ Each IR sensor has a transmitter (IR LED) and a receiver (Photodiode). When an o
 - **GND** of both IR sensors → **GND** pin of Arduino  
 - **DATA** pins → **Digital Pin 7** and **Pin 8** of Arduino UNO  
 
-> *Figure 3: Circuit Diagram*
+![Figure3: IR Sensor](Circuit.jpg)
 
 ---
 # Output 
