@@ -37,6 +37,9 @@ Each IR sensor has a transmitter (IR LED) and a receiver (Photodiode). When an o
 ![Figure3: IR Sensor](Circuit.jpg)
 
 ---
+## Code
+The Code can be found in the file Main.cpp
+
 # Output 
 ![Number of visitors currently in the room being displayed](Output_Arduino.jpg)
 
