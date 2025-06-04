@@ -24,9 +24,9 @@ A microcontroller board with 14 digital I/O pins and 6 analog input pins. It is 
 ###  IR Sensors  
 Each IR sensor has a transmitter (IR LED) and a receiver (Photodiode). When an object blocks the IR rays, the Arduino detects a voltage change and processes it as an event.
 
-> *Figure 2: IR Sensors*
+![Figure2: IR Sensor](IRSensor.jpg)
 
----
+
 
 ## 🔌 Circuit Connections
 
